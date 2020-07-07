@@ -1,0 +1,6 @@
+---
+:lessons:
+- :id: 10659
+  :course_id: 345
+  :canvas_url: https://learning.flatironschool.com/courses/345/pages/webpack-and-react
+  :type: page
